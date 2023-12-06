@@ -1,0 +1,5 @@
+"Cutoff","Variable","Level","PR","CI_lb","CI_ub"
+"80th Percentile (17.4 mm)","Heavy Rain","Heavy Rain",0.489689344028353,0.353409012064521,0.678521615094354
+"80th Percentile (17.4 mm)","Heavy Rain","No Heavy Rain",0.865746488687027,0.599360419752972,1.25052799279411
+"90th Percentile (28.9 mm)","Heavy Rain","Heavy Rain",0.435688097295325,0.274202846379696,0.692276249612543
+"90th Percentile (28.9 mm)","Heavy Rain","No Heavy Rain",0.79830539747266,0.599620187835277,1.0628253026882
