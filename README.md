@@ -4,7 +4,7 @@ This repository contains replication scripts for the manuscript "Influence of te
 
 ## Directory Structure
 
-**00-run_analysis.sh**: a bash script, when executed all analysis script is run to replicate study results
+**`00-run_analysis.sh`**: a bash script, when executed all analysis script is run to replicate study results
 
 **`0-config.R` :** configuration file that sets data directories, sources base functions, and loads required libraries.
 
